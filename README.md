@@ -29,7 +29,7 @@ A fully functional chess game implemented in Python using PyQt5, featuring a gra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pyqt-chess.git
+git https://github.com/thinkphp/chess-pyqt5.git
 cd pyqt-chess
 ```
 
